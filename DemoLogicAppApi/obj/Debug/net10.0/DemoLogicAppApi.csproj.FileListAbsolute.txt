@@ -229,3 +229,4 @@ C:\Assignments\DemoLogicAppApi\obj\Debug\net10.0\refint\DemoLogicAppApi.dll
 C:\Assignments\DemoLogicAppApi\obj\Debug\net10.0\DemoLogicAppApi.pdb
 C:\Assignments\DemoLogicAppApi\obj\Debug\net10.0\DemoLogicAppApi.genruntimeconfig.cache
 C:\Assignments\DemoLogicAppApi\obj\Debug\net10.0\ref\DemoLogicAppApi.dll
+C:\Assignments\DemoLogicAppApi\obj\Debug\net10.0\DemoLogicAppApi.sourcelink.json
